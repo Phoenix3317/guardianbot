@@ -7,6 +7,8 @@
     "noEmit": true,
     "esModuleInterop": true,
     "module": "esnext",
+    "rootDir": "./api",
+    "outDir": "./build",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
